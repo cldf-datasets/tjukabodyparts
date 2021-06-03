@@ -15,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/tjukabodyparts",
-            "dc:created": "48a3aeb"
+            "dc:created": "1abc1ec"
         },
         {
             "rdf:type": "prov:Entity",
@@ -54,7 +54,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 413,
+            "dc:extent": 433,
             "tableSchema": {
                 "columns": [
                     {

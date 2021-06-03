@@ -14,19 +14,13 @@ This dataset is licensed under a CC-BY-4.0 license
 
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
+![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
 - **Varieties:** 15
 - **Concepts:** 28
-- **Lexemes:** 413
-- **Sources:** 0
-- **Synonymy:** 1.00
-
-## Possible Improvements:
-
-
-
-- Entries missing sources: 413/413 (100.00%)
+- **Lexemes:** 433
+- **Sources:** 1
+- **Synonymy:** 1.05
 
 # Contributors
 

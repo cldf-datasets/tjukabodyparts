@@ -28,9 +28,9 @@ class Dataset(pylexibank.Dataset):
 
         for row in data:
             for language in languages:
-                args.writer.add_form(
+                args.writer.add_forms_from_value(
                     Value=row[language],
-                    Form=row[language],
                     Language_ID=language,
                     Parameter_ID=concepts[row["NUMBER"]],
+                    Source="Tjuka2019"
                 )
