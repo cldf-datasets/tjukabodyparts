@@ -2,10 +2,10 @@
 
 Cite the source dataset as
 
-> Tjuka, A. (2019). Body-part metaphors as a window to cognition: A cross-linguistic study of object and landscape terms. Hcommons.
+> Tjuka, A. (2019). Body-part metaphors as a window to cognition: A cross-linguistic study of object and landscape terms. Master's thesis Humboldt Universität zu Berlin.
 
 
-The body parts were elicited across 13 languages for a typological study on body part extensions to objects and landscapes. The study consisted of a line drawing of a human body and 53 pictures illustrating object and landscape parts which were based on 93 body part metaphors.
+The body parts were elicited across 13 languages (English and German were added for eliciation) for a typological study on body part extensions to objects and landscapes. The study consisted of a line drawing of a human body and 53 pictures illustrating object and landscape parts which were based on 93 body part metaphors.
 
 This dataset is licensed under a CC-BY-4.0 license
 
