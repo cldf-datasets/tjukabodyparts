@@ -1,0 +1,16 @@
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
+GERMAN,GERMAN,stan1295,German,deu,Eurasia,48.649,12.4676,Indo-European
+ENGLISH,ENGLISH,stan1293,English,eng,Eurasia,53.0,-1.0,Indo-European
+WOLOF,WOLOF,nucl1347,Wolof,wol,Africa,15.2534,-15.383,Atlantic-Congo
+CZECH,CZECH,czec1258,Czech,ces,Eurasia,49.873398,15.10437,Indo-European
+MARATHI,MARATHI,mara1378,Marathi,mar,Eurasia,17.9344,76.6665,Indo-European
+VIETNAMESE,VIETNAMESE,viet1252,Vietnamese,vie,Eurasia,20.681188,105.774071,Austroasiatic
+GREEK,GREEK,gree1276,Greek,,,,,Indo-European
+PERSIAN,PERSIAN,cent2390,Central Persian,,Eurasia,,,Indo-European
+CHINESE,CHINESE,mand1415,Mandarin Chinese,cmn,Eurasia,40.0209,116.228,Sino-Tibetan
+KHOEKHOE,KHOEKHOE,khoe1242,Khoekhoe,,,,,Khoe-Kwadi
+HUNGARIAN,HUNGARIAN,hung1274,Hungarian,hun,Eurasia,46.9068585714,19.6555271429,Uralic
+JAPANESE,JAPANESE,nucl1643,Japanese,jpn,Eurasia,35.0,135.0,Japonic
+HEBREW,HEBREW,hebr1245,Modern Hebrew,heb,Eurasia,31.1056,35.0179,Afro-Asiatic
+TURKISH,TURKISH,nucl1301,Turkish,tur,Eurasia,39.8667,32.8667,Turkic
+MALAY,MALAY,stan1306,Standard Malay,zsm,Eurasia,3.08896,101.699,Austronesian
