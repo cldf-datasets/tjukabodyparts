@@ -15,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/tjukabodyparts",
-            "dc:created": "e2cb6e6"
+            "dc:created": "2fc39d4"
         },
         {
             "rdf:type": "prov:Entity",
@@ -27,7 +27,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0-194-g94059a1"
+            "dc:created": "v2.4.0-207-gc4f481c"
         },
         {
             "rdf:type": "prov:Entity",

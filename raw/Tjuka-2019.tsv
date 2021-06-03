@@ -1,8 +1,8 @@
 ID	NUMBER	GERMAN	ENGLISH	WOLOF	CZECH	MARATHI	VIETNAMESE	GREEK	PERSIAN	CHINESE	KHOEKHOE	HUNGARIAN	JAPANESE	HEBREW	TURKISH	MALAY
 Tjuka-2019-28-1	1	Arm	arm	loxo	ruka	हात	tay	χέρι	بازو	胳膊	ǁ​ôab	kar	腕	זרוע	kol	lengan
-Tjuka-2019-28-2	2	Rücken	back	ganàw/ginàw	záda		lưng	μέση	بازگشت	后背	ǁ​âb	hát	背/背中	גב	sırt	belakang
+Tjuka-2019-28-2	2	Rücken	back	ganàw/ginàw	záda	NA	lưng	μέση	بازگشت	后背	ǁ​âb	hát	背/背中	גב	sırt	belakang
 Tjuka-2019-28-3	3	Körper	body	yaram	tělo	शरीर/अंग	cơ thể	σώμα	بدن	身体	ǀ​khāb/soros	test	体	גוף	vücut	badan
-Tjuka-2019-28-4	4	Gesäß	buttocks		hýždě	नितंब	mông	οπίσθια		臀	ǂ​aredi	fenék	尻		göt/kıç	pantat
+Tjuka-2019-28-4	4	Gesäß	buttocks	NA	hýždě	नितंब	mông	οπίσθια	NA	臀	ǂ​aredi	fenék	尻	NA	göt/kıç	pantat
 Tjuka-2019-28-5	5	Ohr	ear	nopp	ucho	कान	tai	αυτί	گوش	耳	ǂ​gaes	fül	耳	אוזן	kulak	telinga
 Tjuka-2019-28-6	6	Auge	eye	bët	oko	डोळा	mắt	μάτι	چشم	眼	mûs	szem	眼	עין	göz	mata
 Tjuka-2019-28-7	7	Gesicht	face	kanam	obličej	चेहरा	mặt	πρόσωπο	صورت	脸/面	ais	arc	顔	פנים	yüz	wajah/muka
@@ -11,8 +11,8 @@ Tjuka-2019-28-9	9	Fuß	foot	tank	noha	पाय	bàn chân	πόδι	پا	脚	ǂ�
 Tjuka-2019-28-10	10	Hand	hand	loxo	ruka	हात	bàn tay	χέρι	دست	手	!oms	kéz	手	יד	el	tangan
 Tjuka-2019-28-11	11	Kopf	head	bopp	hlava	डोकं	đầu	κεφάλι	سر	头	danas	fej	頭	ראש	kafa/baş	kepala
 Tjuka-2019-28-12	12	Herz	heart	xol	srdce	ह्रदय	tim	καρδιά	قلب	(心)脏	ǂ​gaob	szíz	心臓	לב	kalp	hati
-Tjuka-2019-28-13	13	Ferse	heel		pata	टाच	gót chân	φτέρνα	پاشنه	脚跟	!nôas	sarok	踵	עקב	topuk	tumit
-Tjuka-2019-28-14	14	Hüfte	hip	ndiggu	kyčel	पाय	hông		لگن	臀	ǀ​nanas	csípő	腰		kalça	pinggul
+Tjuka-2019-28-13	13	Ferse	heel	NA	pata	टाच	gót chân	φτέρνα	پاشنه	脚跟	!nôas	sarok	踵	עקב	topuk	tumit
+Tjuka-2019-28-14	14	Hüfte	hip	ndiggu	kyčel	पाय	hông	NA	لگن	臀	ǀ​nanas	csípő	腰	NA	kalça	pinggul
 Tjuka-2019-28-15	15	Knie	knee	óom	koleno	गुडघा	đùi gối	γόνατο	زانو	膝盖	​ǁ​goas	térd	膝	ברך	diz	lutut
 Tjuka-2019-28-16	16	Bein	leg	tank	noha	कंबर	chân	πόδι	پا	腿	ǀ​nūb/ǀ​nugu	láb	脚	רגל	bacak	kaki
 Tjuka-2019-28-17	17	Mund	mouth	gémmiñ	pusa/ústa	तोंड	miệng/mồm	στόμα	دهان	嘴/口	am!nâs/ams	száj	口	פה	ağız	mulut

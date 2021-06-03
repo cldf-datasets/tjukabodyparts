@@ -12,6 +12,7 @@ class Dataset(pylexibank.Dataset):
         brackets={"(": ")"},
         separators="/",
         strip_inside_brackets=False,
+        missing_data=("NA",),
     )
 
     def cmd_makecldf(self, args):
